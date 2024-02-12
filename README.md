@@ -18,7 +18,7 @@
 <h2>Languages and Utilities Used</h2>
 
 - <b>Java</b> 
-- <b>Object Oriented Prorgaming</b>
+- <b>Object Oriented Programming</b>
 - <b>VsCode<b>
 
 
